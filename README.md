@@ -1,7 +1,7 @@
 
 
 
-# MindCast
+# PodcApp
 
 ![Preview-Screens](https://github.com/steniowagner/mindCast/blob/master/PUXA-R10!.png)
 
@@ -14,8 +14,6 @@ The idea of the App is:
 _"Share knowledge in the form of podcasts, providing a simple way to learn"._
 
 **PS:** Podcasts was just the context chosen by me for this project, but all the code inside this app can be reused for any app that has audio-streaming as domain, so you can reuse everything here in your next music-player, podcast-library or anything inside this context!
-
-**On the Media 🤩:** A [review](https://youtu.be/nu8mwGZUBFU) about this app (pt-BR 🇧🇷).
 
 ## Why?
 
@@ -106,18 +104,18 @@ iOS .ipa installer: Soon!
 
 ### Prerequisites
 
-To run this project in the development mode, you'll need to have a basic environment to run a React-Native App, that can be found [here](https://facebook.github.io/react-native/docs/getting-started).
+To run this project in the development mode, you'll need to have a basic environment to run a React-Native App.
 
-Also, you'll need to the server running locally on your machine with the mock data. You can find the server and all the instructions to start the server [here](https://github.com/steniowagner/mindcast-server).
+Also, you'll need to the server running locally on your machine with the mock data. You can find the server and all the instructions to start the server.
 
 ### Installing
 
 **Cloning the Repository**
 
 ```
-$ git clone https://github.com/steniowagner/mindCast
+$ git clone https://github.com/uniiyt/PodcApp
 
-$ cd mindCast
+$ cd PodcApp
 ```
 
 **Installing dependencies**
