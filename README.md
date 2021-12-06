@@ -3,7 +3,7 @@
 
 # PodcApp
 
-![Preview-Screens](https://github.com/uniiyt/PodcApp/blob/master/PUXA-R10!.png)
+![Preview-Screens](https://github.com/uniiyt/PodcApp/blob/main/PUXA-R10!.png?raw=true)
 
 If you want to take a look on all screens of the App, they are [here](https://drive.google.com/drive/folders/1HmnzAnW4-NLOf2uef5egiqlhzBJXIYLb?usp=sharing).
 
