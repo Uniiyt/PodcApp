@@ -21,9 +21,9 @@ _"Share knowledge in the form of podcasts, providing a simple way to learn"._
 
 This project is part of my personal portfolio, so, I'll be happy if you could provide me any feedback about the project, code, structure or anything that you can report that could make me a better developer!
 
-Email-me: stenio.wagner1@gmail.com
+Email-me: juuliamendesss@gmail.com
 
-Connect with me at [LinkedIn](https://www.linkedin.com/in/steniowagner/).
+Connect with me at [LinkedIn](https://www.linkedin.com/in/julia-mendes-041b08217/).
 
 Also, you can use this Project as you wish, be for study, be for make improvements or earn money with it!
 
@@ -132,20 +132,6 @@ _or_
 $ npm install
 ```
 
-### Connecting the App with the Server
-
-1 - Follow the instructions on the [mindcast-server](https://github.com/steniowagner/mindcast-server) to have the server up and running on your machine.
-
-2 - With the server up and running, go to the [/.env.development](https://github.com/steniowagner/mindCast/blob/master/.env.development) file and edit the SERVER_URL value for the IP of your machine (you can have some issues with _localhost_ if you're running on an android physical device, but you can use localhost safely on iOS).
-
-It should looks like this:
-
-SERVER_URL=http://**_IP_OF_YOUR_MACHINE_**:3001/mind-cast/api/v1
-
-*or*
-
-SERVER_URL=http://localhost:3001/mind-cast/api/v1
-
 ### Running
 
 With all dependencies installed and the environment properly configured, you can now run the app:
@@ -195,12 +181,8 @@ $ react-native run-ios
 
 You can send how many PR's do you want, I'll be glad to analyse and accept them! And if you have any question about the project...
 
-Email-me: stenio.wagner1@gmail.com
+Email-me: juuliamendesss@gmail.com
 
-Connect with me at [LinkedIn](https://www.linkedin.com/in/steniowagner/)
+Connect with me at [LinkedIn](https://www.linkedin.com/in/julia-mendes-041b08217/).
 
 Thank you!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/steniowagner/mindCast/blob/master/LICENSE) file for details
